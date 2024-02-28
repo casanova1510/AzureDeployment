@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'cc2ml'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BCE823817904DA4B8076EB0DBFE5C0E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_855D4AD4D5CA405BB171D85B84ED6301 }}
